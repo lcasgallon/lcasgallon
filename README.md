@@ -1,4 +1,6 @@
-### Hi there 👋
+# Software Developer
+
+I am a full stack developer, passionate about technology , in search of constant learning.
 
 <!--
 **lcasgallon/lcasgallon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
