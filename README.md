@@ -1,7 +1,9 @@
 # Software Developer
 
-I am a full stack developer, passionate about technology , in search of constant learning.
-
+I am a full stack developer, passionate about technology, in search of constant learning.
+<a target="_blank" href="https://www.linkedin.com/in/lucas-gallon/">
+  <img align="left" alt="LinkedIN" width="50px" src="https://github.com/lcasgallon/assets/blob/master/icons/linkedin.jpg" />
+  
 <!--
 **lcasgallon/lcasgallon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
